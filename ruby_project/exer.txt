@@ -1,0 +1,11 @@
+1. Create a table (hash) with 5 student names, where the name would be a string and the key, and the roll number would be the value
+
+2. Display the names to the user 
+
+3. Get input from the user on the name (hint: use gets.chomp method)
+
+4. Display roll no based on user's choice
+
+5. Loop - keep the program running and prompt the user for new names to lookup
+
+6. Method to display just city names

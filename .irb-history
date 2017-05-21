@@ -1,0 +1,100 @@
+clear
+puts1+2
+puts 1+2
+20/3
+6+6
+20.times {puts "hi"}
+20.times {puts 10}
+a=[1,2,3,4,5,6]
+a[1]
+a[0]
+a[10]
+a[7]
+a[5]
+puts a
+a.empty?
+a.full?
+delete a
+a.include?(1)
+a.include(967)
+a.revers
+a=[7,8,9]
+a.reverse
+a.reverse!
+a=[1,2,3,4,5,6,7]
+a
+a.shuffle
+(0..25).to_a
+y=(0..99).to_a.shuffle
+(0..10).to_a
+z=(0..9)
+z<<25
+z=(0..9).to_a
+z<<23
+z<<44
+z.reverse
+z.reverse!
+z.
+z.shuffle
+z.shuffle!
+z.push(30)
+z.unshift("mush")
+z[0]
+z.pop
+z<<3
+z<<6
+z.uniq
+z.uniq!
+z
+ a
+y.each
+y.each{|i| }
+y.each{|i| puts i }
+for number in y
+puts "hi"
+names=[joe,johne,james]
+names=["joe","john","james"]
+puts "hello #{food}"
+names.each do |food|
+puts "hello #{food.capitalize}"
+names.each do { |food| puts "hello #{food.capitalize}"}
+end
+names
+names.each {|food| puts "hiii #{food}"}
+y
+y.select {|a| a.odd? } 
+y.select {|a| a.even? } 
+y.select {|a| a.nil? } 
+y.each {|a| print a if a.odd?}
+p=["my", "name","is","salman"] 
+p
+p.join
+p.join(' ')
+my_table
+y_table = {'name'=> 'salman', 'color'=> 'red'}
+y_able["colo"]
+y_able["color"]
+y_table["color"]
+y_table
+myhash=[a:1,b:2,c:3,d:4]
+myhash={a:1,b:2,c:3,d:4}
+myhash[:b]
+myhash [:d]=7
+myhash["name"]="salman"
+myhash.delete [:a]
+myhash.delete (:a)
+ myhash.delete(:name)
+ myhash.delete(:"name")
+ myhash.delete("name")
+myhash [:a]=9
+myhash.each {|k,v| puts v }
+myhash.each {|k,v| puts "the key is #{k} and value is #{v} }
+myhash
+dic= { nagpur:1, pune:2, chennai:3, mumbai:4, dilli:5 }
+dic[:pune]
+students
+hello = { a:1, b:2, c:3}
+hello[a]
+hello[:a]
+ "josephine".methods
+exit

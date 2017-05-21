@@ -1,0 +1,6 @@
+Build
+
+Reads in user info that is provided
+Reads in permissions from json file
+creates a new user with the assigned permissions
+saves the user in new user listing file, if file doesnt exist yet, it creates one
